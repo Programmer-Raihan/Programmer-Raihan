@@ -8,4 +8,6 @@
 
 - 💬 Let's discuss about career growth / startup (specifically, interested in OPC)
 - 📫 How to reach me: rsraihan1233@gmail.com
+<br>
+Let's be a better person, help others, be kind to others
 
