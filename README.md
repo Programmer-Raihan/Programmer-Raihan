@@ -1,5 +1,5 @@
 # I am Raihan Sharif
-
+![](https://komarev.com/ghpvc/?username=Programmer-Raihan&style=for-the-badge)
 - 🔭 I’m currently working on front-end based web applications
 - 🌱 I’m currently learning modern full-stack tech and tools
 - 👯 I’m looking to collaborate on AI-integrated / Full-stack Projects
